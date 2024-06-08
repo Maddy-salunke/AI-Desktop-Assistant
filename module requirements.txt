@@ -1,0 +1,14 @@
+python version = 3.8.0
+speechrecogntion
+openai
+python-dotenv
+pyttsx3
+pyaudio
+keyboard
+pyautogui
+deep_translation
+requests
+beautifulsoup4
+datetime
+smtplib
+googlemaps
